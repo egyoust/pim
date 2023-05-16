@@ -1,4 +1,4 @@
-package idusw.java.oop;
+package idusw.java.fundmentals.oop;
 
 public class UserMenu {
     public void showMenu(boolean login) {

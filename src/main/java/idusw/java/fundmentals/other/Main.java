@@ -1,4 +1,4 @@
-package idusw.java.other;
+package idusw.java.fundmentals.other;
 
 public class Main {
     public String method1() { // 메소드 : 객체가 생성된 후 사용 가능함 ( 객체가 생성된다는 것은 메모리에 적재된다는 것)

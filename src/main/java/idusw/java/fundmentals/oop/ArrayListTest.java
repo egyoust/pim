@@ -1,7 +1,6 @@
-package idusw.java.oop;
+package idusw.java.fundmentals.oop;
 
 import java.util.ArrayList;
-import java.util.Collections;
 
 public class ArrayListTest {
     public static void main(String[] args) { // args : 명령행 매개 변수

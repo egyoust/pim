@@ -1,4 +1,4 @@
-package idusw.java.oop;
+package idusw.java.fundmentals.oop;
 
 public class AdminMenu extends UserMenu { // 상속 : inheritance - 중첩(overloading), 재정의(overring), 메소드 추가
 

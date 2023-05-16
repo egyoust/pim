@@ -1,6 +1,6 @@
-package idusw.java.other;
+package idusw.java.fundmentals.other;
 
-import idusw.java.inheritance.MyArrayList;
+import idusw.java.fundmentals.inheritance.MyArrayList;
 
 import java.util.List;
 

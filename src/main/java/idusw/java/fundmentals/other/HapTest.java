@@ -1,6 +1,6 @@
-package idusw.java.other;
+package idusw.java.fundmentals.other;
 
-import idusw.java.oop.ReverseArrayList;
+import idusw.java.fundmentals.oop.ReverseArrayList;
 
 public class HapTest {
     public static void main(String[] args) { // 프로그램의 시작점 : main() 메소드

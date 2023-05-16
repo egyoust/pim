@@ -1,4 +1,4 @@
-package idusw.java.inheritance;
+package idusw.java.fundmentals.inheritance;
 
 import java.util.ArrayList;
 import java.util.List;

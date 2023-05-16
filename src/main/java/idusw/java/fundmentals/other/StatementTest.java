@@ -1,4 +1,4 @@
-package idusw.java.other;
+package idusw.java.fundmentals.other;
 
 class StatementTest {
     public static final double PI = 3.141592; // PI : 상수 변수 (대문자를 사용함), 3.141592 : 실수 리터럴

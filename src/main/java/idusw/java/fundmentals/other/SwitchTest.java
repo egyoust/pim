@@ -1,4 +1,4 @@
-package idusw.java.other;
+package idusw.java.fundmentals.other;
 
 public class SwitchTest { // public class 이름과 파일 이름은 같아야 한다
     public static void main(String[] args) {

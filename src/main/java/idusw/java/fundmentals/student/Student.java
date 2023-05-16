@@ -1,4 +1,4 @@
-package idusw.java.fundmentals;
+package idusw.java.fundmentals.student;
 
 public class Student {
     private Long hakbun;

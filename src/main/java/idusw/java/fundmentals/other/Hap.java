@@ -1,4 +1,4 @@
-package idusw.java.other;
+package idusw.java.fundmentals.other;
 
 public class Hap {
     private int from, to; // 필드, 인스턴스 변수, 속성(자료구조) : private 인 경우 외부 접근 불가능

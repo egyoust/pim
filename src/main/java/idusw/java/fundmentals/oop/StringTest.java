@@ -1,9 +1,9 @@
-package idusw.java.oop;
+package idusw.java.fundmentals.oop;
 // package : 연관성 높은 클래스, 인터페이스, 열거형, 에러, 예외 등의 모음
 
 // import 현재 클래스를 컴파일하거나, 객체화된 후 동작할 때 필요한 클래스 라이브러리에 대한 정보를 제공
 //import java.lang.String; // 자동으로 java.lang 패키지 안에 있는 클래스들을 import 함
-import idusw.java.other.Day;
+import idusw.java.fundmentals.other.Day;
 
 import java.util.ArrayList;
 

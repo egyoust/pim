@@ -1,4 +1,4 @@
-package idusw.java.other;
+package idusw.java.fundmentals.other;
 
 import java.math.BigDecimal;
 

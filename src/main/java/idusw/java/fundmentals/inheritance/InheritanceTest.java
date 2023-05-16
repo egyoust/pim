@@ -1,4 +1,4 @@
-package idusw.java.inheritance;
+package idusw.java.fundmentals.inheritance;
 
 import java.lang.String; // 기본 패키지 : java.lang.*, import 필요 없음
 import java.util.ArrayList; // import : 현재 클래스와 다른 패키지에 위치한 클래스에 대한 정보 제공

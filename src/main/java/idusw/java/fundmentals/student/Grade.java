@@ -1,4 +1,4 @@
-package idusw.java.fundmentals;
+package idusw.java.fundmentals.student;
 
 public class Grade {
     /**
@@ -8,13 +8,15 @@ public class Grade {
      */
     private Double korean; // 인스턴스 변수의 경우 초기화를 하지 않는 경우 기본값으로 초기화함
     private Double math;
-    private Double physics;
-
+    private Double physics; // Double - Wrapper Class vs. double
+    // @AllArgsConstructor Annotation(애노테이션) : lombok library 추가되어있어야 함
     public Grade(Double korean, Double math, Double physics) {
-        // @AllArgsConstructor Annotation(애노테이션) : lombok library 추가되어있어야 함
         this.korean = korean;
         this.math = math;
         this.physics = physics;
+    }
+    // @NoArgsConstructor, Default Constructor
+    public Grade() {
     }
 
     public Double calcSum() {

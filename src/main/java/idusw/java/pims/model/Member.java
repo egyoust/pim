@@ -1,4 +1,6 @@
-package idusw.java.pims.domain;
+package idusw.java.pims.model;
+
+import java.util.Objects;
 
 public class Member {
     // 실제 업무에서 사용되는 Data 들을 구현한 객체, Domain 객체, DTO(Data Transfer Object)
@@ -55,5 +57,18 @@ public class Member {
 
     public void setAddress(String address) {
         this.address = address;
+    }
+
+    @Override
+    public boolean equals(Object o) { // 동일성, 동등성 비교
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Member member = (Member) o;
+        return email.equals(member.email) && pw.equals(member.pw);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(id, email);
     }
 }

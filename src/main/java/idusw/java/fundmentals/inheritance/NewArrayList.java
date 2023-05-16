@@ -1,4 +1,4 @@
-package idusw.java.inheritance;
+package idusw.java.fundmentals.inheritance;
 
 public class NewArrayList<E> extends MyArrayList<E> {
     // < > 는 제너릭(generic) : 컴파일 시점에 타입 체크하여 오류 발생을 방지

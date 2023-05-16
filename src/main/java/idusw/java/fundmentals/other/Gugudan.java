@@ -1,4 +1,4 @@
-package idusw.java.other;
+package idusw.java.fundmentals.other;
 
 public class Gugudan {
     // 인스턴스(클래스로부터 실체화된 객체) 변수

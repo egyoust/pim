@@ -1,4 +1,4 @@
-package idusw.java.oop;
+package idusw.java.fundmentals.oop;
 
 import java.util.ArrayList;
 
